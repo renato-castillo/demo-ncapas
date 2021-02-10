@@ -1,0 +1,17 @@
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\PruebaRC.exe.config
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\PruebaRC.exe
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\PruebaRC.pdb
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaEntidades.dll
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaNegocio.dll
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaDatos.dll
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaEntidades.pdb
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaNegocio.pdb
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\bin\Debug\CapaDatos.pdb
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\PruebaRC.Form1.resources
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\PruebaRC.Properties.Resources.resources
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\PruebaRC.exe
+C:\Users\RENATO\source\repos\PruebaRC\PruebaRC\obj\Debug\PruebaRC.pdb
